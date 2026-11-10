@@ -1,0 +1,6 @@
+repository = "https://github.com/absolutelyZero/openidea-plugin-stock-ticker"
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/absolutelyZero/openidea-plugin-stock-ticker/releases/download/v0.1.0/absolutelyzero.stock-ticker-0.1.0.oiplugin"
+sha256 = "a4175d19d258cf87737142ebfb751610a6f09fb3311c149e9eb153a7d782669d"
